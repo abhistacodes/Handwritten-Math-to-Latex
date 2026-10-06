@@ -1,3 +1,4 @@
+# Rather than immediately processing 11,088 files, create a small test script.
 from pathlib import Path
 
 from src.data.inkml_parser import parse_inkml
