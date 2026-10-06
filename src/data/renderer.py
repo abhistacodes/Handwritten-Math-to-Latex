@@ -1,5 +1,3 @@
-# Rather than immediately processing 11,088 files, create a small test script
-
 from pathlib import Path
 from PIL import Image, ImageDraw
 
