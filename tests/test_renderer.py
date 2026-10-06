@@ -7,6 +7,7 @@ from src.data.renderer import render_strokes
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
+
 INKML_FILE = (
     PROJECT_ROOT
     / "data"
