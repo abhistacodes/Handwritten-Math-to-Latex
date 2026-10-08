@@ -6,7 +6,7 @@ The system takes an image of a handwritten equation as input and generates a str
 
 ## Dataset
 
-- CROHME (Competition on Recognition of Online Handwritten Mathematical Expressions)
+ _CROHME (Competition on Recognition of Online Handwritten Mathematical Expressions)_
 
 ## Core Technologies
 
