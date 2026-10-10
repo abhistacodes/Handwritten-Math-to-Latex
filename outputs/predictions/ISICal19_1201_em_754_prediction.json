@@ -1,0 +1,26 @@
+{
+  "image_path": "/data1/students/abhista/HMER/data/processed/crohme2019/images/test/ISICal19_1201_em_754.png",
+  "checkpoint_path": "/data1/students/abhista/HMER/outputs/models/baseline_hmer_best.pt",
+  "checkpoint_epoch": 1,
+  "predicted_token_ids": [
+    15,
+    4,
+    34,
+    47,
+    9,
+    45,
+    47,
+    9,
+    63,
+    47,
+    5,
+    4,
+    10,
+    9,
+    23,
+    9,
+    26,
+    5
+  ],
+  "predicted_latex_tokens": "\\frac { \\sin \\theta + \\cos \\theta + \\tan \\theta } { x + y + z }"
+}

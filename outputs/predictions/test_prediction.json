@@ -1,0 +1,12 @@
+{
+  "image_path": "/data1/students/abhista/HMER/data/test.jpeg",
+  "checkpoint_path": "/data1/students/abhista/HMER/outputs/models/baseline_hmer_best.pt",
+  "checkpoint_epoch": 1,
+  "predicted_token_ids": [
+    20,
+    4,
+    60,
+    5
+  ],
+  "predicted_latex_tokens": "\\mbox { j }"
+}
