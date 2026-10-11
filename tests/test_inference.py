@@ -6,7 +6,7 @@ Run from the HMER project root:
 import json
 from pathlib import Path
 
-import pytest
+import pytest # type: ignore
 import torch
 from PIL import Image
 
